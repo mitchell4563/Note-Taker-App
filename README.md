@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - My motivation for building this project was to create an application where the user can create, store, and delete notes to keep reminders in a centralized location
 - I built this project because I am very forgetful and am always near my computer, so having my notes be stored in an app of my own creation was a good idea.
 - Throughout this challenge I learned how to create an express server and route html and data so that it can be rendered on the server
